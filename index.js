@@ -3,9 +3,7 @@ import React from 'react'
 const index = () => {
   return (
     <div>
-      <h1>
-        Anannya
-      </h1>
+     
     </div>
   )
 }
